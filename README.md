@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @czarecki
-- 🌱 I’m currently improving my JS skills
-- 💞️ I’m looking for work
+- 🌱 I’m currently working as a Front-end developer with Vue.js
 - 📫 You can reach me at kontakt@cezarymazur.pl
 
 <!---
